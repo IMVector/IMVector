@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Java", "pyhton","C","javascript"],   
+    code: ["Java", "pyhton","C","javascript"],
+    I'd like to be the one who can talk, so I can be noticed by the people I like!
 };
 ```
  <!--  
