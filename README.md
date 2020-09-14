@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Java", "pyhton","C","javascript"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+   <!-- askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
@@ -49,7 +49,7 @@ const anmol = {
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]-->
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
@@ -62,7 +62,7 @@ const anmol = {
 ---
 <!--START_SECTION:waka-->
 **I'm an early 🐤** 
-
+<!--
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
 🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
@@ -70,7 +70,8 @@ const anmol = {
 🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
 ```
-
+-->
+<!--
 
 📊 **This week I spent my time on** 
 
@@ -93,6 +94,8 @@ IDEA                     2 hrs 28 mins       ███░░░░░░░░�
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
 
 ```
+-->
 <!--END_SECTION:waka-->
-
+<!--
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+-->
