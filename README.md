@@ -36,7 +36,12 @@ Here are some ideas to get you started:
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Java", "pyhton","C","javascript"],
-   <!-- askMeAbout: ["web dev", "tech", "app dev", "photography"],
+
+   
+};
+```
+ <!--  
+  askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
@@ -54,10 +59,9 @@ const anmol = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
-    -->
-};
-```
 
+
+-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
