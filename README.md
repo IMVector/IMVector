@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Java", "pyhton","C","javascript"]
+    doing nothing
 };
 ```
  <!--  
