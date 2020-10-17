@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Java", "pyhton","C","javascript"]
-    love yourself
+    love yourself,
+    do yourself,
+    do what you love
 };
 ```
  <!--  
