@@ -38,7 +38,9 @@ const anmol = {
     code: ["Java", "pyhton","C","javascript"]
     love yourself,
     do yourself,
-    do what you love
+    do what you love,
+    事出无常必有鬼！
+
 };
 ```
  <!--  
